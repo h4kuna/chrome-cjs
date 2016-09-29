@@ -8,4 +8,4 @@ install to [chrome browser](https://www.google.com/chrome/browser/desktop/index.
 Open url where you want add custom javascript. You can add own javascript or select from this repository.
 
 # Copy source from repository
-Click to icon of cjs extension, then open texarea where paste javascript form repository and select external javascript jQuery 2.x
+Click to icon of cjs extension, then open textarea where paste javascript form repository and select external javascript jQuery 2.x
