@@ -1,9 +1,11 @@
 # Custom script to edit web page
 Every file has nema like domain and change visible any elements.
 
-# 1. step
+# Install extension
 install to [chrome browser](https://www.google.com/chrome/browser/desktop/index.html) this [cjs extension](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija)
 
-# 2. step open domain
+# Open url
+Open url where you want add custom javascript. You can add own javascript or select from this repository.
 
-# 3. click toextension and copy source js to extension
+# Copy source from repository
+Click to icon of cjs extension, then open texarea where paste javascript form repository and select external javascript jQuery 2.x
