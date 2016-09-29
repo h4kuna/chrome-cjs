@@ -1,5 +1,5 @@
 # Custom script to edit web page
-Every file has nema like domain and change visible any elements.
+Every file has name like domain and change visible any elements.
 
 # Install extension
 install to [chrome browser](https://www.google.com/chrome/browser/desktop/index.html) this [cjs extension](https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija)
